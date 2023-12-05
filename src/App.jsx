@@ -11,6 +11,7 @@ function App() {
         Game board
       </div>
       LOG
+      <h2>hi</h2>
     </main>
   );
 }
